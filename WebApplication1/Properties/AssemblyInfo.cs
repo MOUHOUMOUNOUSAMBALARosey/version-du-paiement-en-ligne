@@ -3,7 +3,7 @@ using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
 // Les informations générales relatives à un assembly dépendent de 
-// l'ensemble d'attributs suivant. Changez les valeurs de ces attributs pour modifier les informations
+// jeu d'attributs suivant. Changez les valeurs de ces attributs pour modifier les informations
 // associées à un assembly.
 [assembly: AssemblyTitle("WebApplication1")]
 [assembly: AssemblyDescription("")]
@@ -16,13 +16,13 @@ using System.Runtime.InteropServices;
 
 // L'affectation de la valeur false à ComVisible rend les types invisibles dans cet assembly 
 // aux composants COM. Si vous devez accéder à un type dans cet assembly à partir de 
-// COM, affectez la valeur true à l'attribut ComVisible sur ce type.
+// COM, attribuez à ComVisible la valeur True sur ce type.
 [assembly: ComVisible(false)]
 
-// Le GUID suivant est pour l'ID de la typelib si ce projet est exposé à COM
-[assembly: Guid("eca31855-dc84-4038-b07f-8407e5608eb3")]
+// Le GUID suivant correspond à l'ID de typelib si ce projet est exposé à COM
+[assembly: Guid("1a29da4f-f90d-4dfe-b22f-5feca2574cff")]
 
-// Les informations de version pour un assembly se composent des quatre valeurs suivantes :
+// Les informations de version d'un assembly se composent des quatre valeurs suivantes :
 //
 //      Major Version
 //      Minor Version 
@@ -30,6 +30,6 @@ using System.Runtime.InteropServices;
 //      Revision
 //
 // Vous pouvez spécifier toutes les valeurs ou indiquer les numéros de révision et de build par défaut 
-// en utilisant '*', comme indiqué ci-dessous :
+// en utilisant le signe '*', comme indiqué ci-dessous :
 [assembly: AssemblyVersion("1.0.0.0")]
 [assembly: AssemblyFileVersion("1.0.0.0")]
